@@ -99,3 +99,12 @@ function hideText() {
 ```html
 <button onClick="this.hidden=true;">Click me</button>
 ```
+## 3. **Javascript30**
+### Day 1
+[Code](https://github.com/wesbos/JavaScript30/blob/master/01%20-%20JavaScript%20Drum%20Kit/index-FINISHED.html)
+#### Comments
+Line 12: Hann býr til sinn eiginn attribute sem heitir "data-key" til þess að halda utan um hvaða key þarf að ýta á til þess að hafa áhrif á það element.
+
+Line 50: Hann setur data-key attribute-ið á audio tag-in sín.
+
+Line 66: Hann sækir öll þau nauðsylegu fyrir keypress-ið, spilar hljóðin og bætir viðeigandi effect á element-ið (Ef takkin er réttur).
