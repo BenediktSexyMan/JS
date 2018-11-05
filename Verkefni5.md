@@ -108,3 +108,15 @@ Line 12: Hann býr til sinn eiginn attribute sem heitir "data-key" til þess að
 Line 50: Hann setur data-key attribute-ið á audio tag-in sín.
 
 Line 66: Hann sækir öll þau nauðsylegu fyrir keypress-ið, spilar hljóðin og bætir viðeigandi effect á element-ið (Ef takkin er réttur).
+
+### Day 2
+[Code](https://github.com/wesbos/JavaScript30/blob/master/02%20-%20JS%20and%20CSS%20Clock/index-FINISHED.html)
+#### Comments
+Line 77: Í falli sem hann kallar á hverji sekúndu (setTimeout) sækir hann allar hendurnar og stillir snúningin að viðeigandi gildi samkvæmt Date object-inu.
+
+### Day 3
+[Code](https://github.com/wesbos/JavaScript30/blob/master/03%20-%20CSS%20Variables/index-FINISHED.html)
+#### Comments
+Line 24: Hann býr til CSS breyturnar.
+
+Line 65: Hann hlustar á change og mouseMove event-in og stillir breyturnar aftur útfrá nýju gildunum.
